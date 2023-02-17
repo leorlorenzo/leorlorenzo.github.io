@@ -144,7 +144,6 @@ html {
     font-size: 30px;
 }
 
-
 .sobremi .contenido-seccion p{
     max-width: 700px;
     margin: auto;
@@ -171,6 +170,13 @@ html {
     display: block;
     font-weight: bold;
     margin: 8px 0;
+}
+
+.sobremi .contenido-seccion .especial{
+    color: #060472;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 20px;
 }
 
 /* SECCION RESUMEN */
