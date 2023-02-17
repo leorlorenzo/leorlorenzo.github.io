@@ -71,16 +71,6 @@ html {
 
 
 
-.inicio .contenido-seccion .foto img {
-    max-width: 300px;
-    border-radius: 30%;
-    border: 5px solid #060472;
-    position: absolute;
-    left: 50%;
-    top: -100px;
-    transform: translateX(-50%);
-    z-index: 1000;
-}
 
 /**MENU*/
 .inicio .contenido-seccion header .nav-bar{
