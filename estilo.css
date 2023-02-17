@@ -245,6 +245,7 @@ html {
     text-align: center;
     cursor: pointer;
     transition: .3s;
+    padding: 15px;
 }
 
 .resumen .contenido-seccion .info .col a:link{
