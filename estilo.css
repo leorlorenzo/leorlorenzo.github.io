@@ -291,8 +291,8 @@ html {
         width: 100%;
         text-align: center;
     }
-    .habilidades .contenido-seccion .fila .col .cont-barra{
-        justify-content: center;
+    .inicio .contenido-seccion header .nav-bar{
+        z-index: 1000;
     }
     .sobremi .contenido-seccion .fila{
         display: block;
