@@ -94,6 +94,7 @@ html {
     line-height: 50px;
     cursor: pointer;
     transition: .3s;
+    z-index: 1000;
 }
 
 .inicio .contenido-seccion header .nav-bar:hover{
