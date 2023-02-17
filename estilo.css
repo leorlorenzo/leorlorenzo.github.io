@@ -15,7 +15,7 @@ html {
 
 .inicio {
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),
-    url("https://github.com/leorlorenzo/leorlorenzo.github.io/blob/3368847d5c2b000146bad91ac5346b1d162fbd0e/Img/fondo2.png");
+    url("Img/fondo2.png");
     background-size: cover;
     background-position: center center;
     color: #fff;
